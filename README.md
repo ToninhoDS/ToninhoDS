@@ -52,10 +52,10 @@
 
 | Projeto | Descrição | Tecnologias | Status |
 |---------|------------|-------------|---------|
-| [Projeto1_tcc](https://github.com/ToninhoDS/Projeto1_tcc) | Sistema com tabelas dinâmicas e banco de dados | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | 🟢 Ativo |
-| [pokemon-crud](https://github.com/ToninhoDS/pokemon-crud) | Operações CRUD com tema Pokémon | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | 🟢 Ativo |
-| [home_vagas](https://github.com/ToninhoDS/home_vagas) | Sistema colaborativo de vagas com outros devs | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | 🟢 Ativo |
-| [themoviedb](https://github.com/ToninhoDS/themoviedb) | Projeto com API de filmes e dados externos | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | 🟢 Ativo |
+| [LandingPage/lanpage-barbearia](https://github.com/ToninhoDS/LandingPage/tree/main/lanpage-barbearia) | Landing page para barbearia desenvolvida com tecnologias modernas | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | 🟢 Ativo |
+| [Sites/acessa-mais-pcd](https://github.com/ToninhoDS/Sites/tree/main/acessa-mais-pcd) | PWA para inclusão digital de pessoas com deficiência na área de TI | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) | 🟢 Ativo |
+| [Cursos/project-industria4.0](https://github.com/ToninhoDS/Cursos/tree/main/Faculdade/RedesPCs/project-industria4.0-aplexlll) | Projeto acadêmico sobre Indústria 4.0 com tecnologias modernas | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | 🟢 Ativo |
+| [Cursos/vagas_on](https://github.com/ToninhoDS/Cursos/tree/main/Tec/ProjetoTCC/vagas_on) | Sistema de vagas de estacionamento com dashboard administrativo | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | 🟢 Ativo |
 
 ---
 
