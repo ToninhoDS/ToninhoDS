@@ -1,8 +1,9 @@
 <h1 align="center">Olá! Eu sou o Antonio Gomes 👋</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Redes de Computadores</strong> (Unyleya) e concluinte do curso de <strong>Desenvolvimento de Sistemas</strong> (ETEC).<br>
-  🚀 Em busca de novos sonhos e oportunidades na área de tecnologia.<br>
+  💻 Desenvolvedor formado em <strong>Desenvolvimento de Sistemas</strong> (ETEC) com experiência em projetos empresariais.<br>
+  🎓 Cursando <strong>Tecnólogo em Redes de Computadores</strong> (Unyleya) para ampliar conhecimentos em infraestrutura.<br>
+  🚀 Apaixonado por tecnologia e sempre em busca de novos desafios e oportunidades de crescimento.<br>
 </p>
 
 <p align="center">
