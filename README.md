@@ -35,17 +35,17 @@
 
 ### 🧩 Sobre mim
 
-- 📚 Estudando redes, desenvolvimento web e banco de dados.
-- 👨‍💻 Meus projetos incluem sistemas CRUD, consumo de APIs e páginas responsivas.
-- 🌱 Aprendendo e evoluindo todos os dias com foco, disciplina e paixão por tecnologia!
-- 💬 Sempre aberto a parcerias e trocas de conhecimento!
+- 💼 Desenvolvedor com experiência em projetos empresariais e sistemas web completos.
+- 🛠️ Especializado em desenvolvimento full-stack, APIs REST e arquitetura de sistemas.
+- 🌐 Ampliando conhecimentos em infraestrutura de redes e tecnologias modernas.
+- 🤝 Sempre aberto a colaborações e novos desafios tecnológicos!
 
 ---
 
 ### 🎓 Formação Acadêmica
 
 - 📚 **Técnico em Desenvolvimento de Sistemas** - ETEC (Concluído)
-- 🎓 **Cursando Redes de Computadores** - Unyleya
+- 🎓 **Tecnólogo em Redes de Computadores** - Unyleya (Em andamento)
 
 ---
 
